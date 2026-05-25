@@ -10,7 +10,7 @@ import { useAuth } from "./auth-provider";
 
 const secondaryLinks = [
   { label: "About", href: "/about" },
-  { label: "Seller Intelligence", href: "/seller/returns" },
+  { label: "Seller Intelligence", href: "/return-intelligence" },
   { label: "Panel administratora", href: "/admin" },
 ];
 
