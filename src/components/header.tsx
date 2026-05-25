@@ -12,6 +12,7 @@ const secondaryLinks = [
   { label: "About", href: "/about" },
   { label: "Return Intelligence", href: "/return-intelligence" },
   { label: "Transaction Pulse", href: "/transaction-pulse" },
+  { label: "Buyer Lens", href: "/buyer-lens" },
   { label: "Panel administratora", href: "/admin" },
 ];
 
