@@ -4,6 +4,7 @@ import { ProductCarousel } from "@/components/sections/product-carousel";
 import { FeatureStory } from "@/components/sections/feature-story";
 import { PromoTiles } from "@/components/sections/promo-tiles";
 import { ValueProps } from "@/components/sections/value-props";
+import { ReferralBanner } from "@/components/sections/referral-banner";
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
       <FeatureStory />
       <PromoTiles />
       <ValueProps />
+      <ReferralBanner />
     </main>
   );
 }
